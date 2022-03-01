@@ -8,6 +8,7 @@ package calculadora;
 /**
  *
  * @author AlexandruS
+ * @version ramal 2.0
  */
 public class Calculadora {
     private int num1;
