@@ -8,6 +8,8 @@ package calculadora;
 /**
  *
  * @author AlexandruS
+ * @version 1.0
+ * @since 2022
  */
 public class Calculadora {
     private int num1;
